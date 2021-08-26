@@ -9,8 +9,8 @@ CREATE TABLE Sales_Team
 ,[Monthly Target] BIGINT
 )
 INSERT INTO Sales_Team VALUES (12134,'Ajay','Alex',100000 )
-INSERT INTO Sales_Team VALUES (12134,'Mary','Jones',300000 )
-INSERT INTO Sales_Team VALUES (12134,'Kiara','Shetty',200000 )
+INSERT INTO Sales_Team VALUES (18164,'Mary','Jones',300000 )
+INSERT INTO Sales_Team VALUES (12110,'Kiara','Shetty',200000 )
 
 CREATE TABLE Sales_Data
 (
